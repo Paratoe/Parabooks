@@ -28,7 +28,15 @@ Extra
 - Netjes gestructureerde projectmappen
 
 
+Cookies
 
+Deze applicatie gebruikt cookies voor:
+
+Het bijhouden van likes en dislikes (één stem per boek)
+
+Het voorkomen van meerdere reviews per boek per gebruiker
+
+Er worden geen persoonsgegevens opgeslagen in cookie
 
 
  Installatie-instructies:
