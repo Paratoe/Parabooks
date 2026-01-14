@@ -48,7 +48,7 @@ Ga naar:
 
 
 - Klik op **Importeren**
-- Selecteer het bestand: **database.sql**  
+- Selecteer het bestand: **init.sql**  
   (dit bestand staat in de repository)
 - Klik op **Start**
 
