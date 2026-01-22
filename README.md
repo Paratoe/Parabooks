@@ -44,7 +44,7 @@ Er worden geen persoonsgegevens opgeslagen in cookie
 Volg deze stappen om het project lokaal te draaien:
 
 1. Download of clone de repository
-Plaats de map in:
+Plaats de map in: htdocs
 2. Start XAMPP
 Start:
 
@@ -75,5 +75,5 @@ $user = 'root';
 $pass = '';
 
 5.de website zou nu lokaal kunnen draaien. 
-http://localhost/backen-website%20kopie/index.php
+http://localhost/Parabooks/index.php
 
